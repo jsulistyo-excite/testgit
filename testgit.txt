@@ -1,3 +1,4 @@
 test 1
 test 2
 feature 1 by dev1
+feature 2 by dev1
